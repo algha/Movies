@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="title_home">Home</string>
+    <string name="title_recommend">Recommmed</string>
+    <string name="title_timeline">Timeline</string>
+    <string name="title_hot">Hot</string>
+    <string name="title_me">Me</string>
+
+    <string name="send_to">Send to</string>
+</resources>
